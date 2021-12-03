@@ -1,0 +1,4 @@
+---
+applications:
+ - name: reto-cutberto
+   random-route: true
